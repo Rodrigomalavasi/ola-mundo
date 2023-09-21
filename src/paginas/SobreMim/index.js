@@ -24,11 +24,11 @@ const SobreMim = () => {
             </p>
 
             <p className={styles.paragrafo}>
-                Minha história com programação começou no início de 2023, quando fiz o meu primo começou a me mostrar os projetos dele e falar várias coisas a respeito da área. Eu aprendi um pouco de lógica de programação e o básico da linguagem VBA, porém, sem me aprofundar muito.
+                Minha história com programação começou no início de 2023, quando o meu primo começou a me mostrar os projetos dele e falar várias coisas a respeito da área. Eu aprendi um pouco de lógica de programação e o básico da linguagem VBA, porém, sem me aprofundar muito.
             </p>
 
             <p className={styles.paragrafo}>
-                Hoje, estou cursando análise e desenvolvimento de sistemas e fazendo diversos cursos ds áreas de Front-End e Programação, com um maior foco em desenvolvimento co react. Sou realmente um apaixonado por tecnologia e programação.
+                Hoje, estou cursando análise e desenvolvimento de sistemas e fazendo diversos cursos ds áreas de Front-End e Programação, com um maior foco em desenvolvimento com react. Sou realmente um apaixonado por tecnologia e programação.
             </p>
 
             <p className={styles.paragrafo}>
